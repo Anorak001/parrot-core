@@ -219,6 +219,7 @@ deb https://deb.parrot.sh/parrot lory-backports main contrib non-free non-free-f
 # if the default servers are too slow
 # open /etc/apt/sources.list.d/parrot.list
 # and follow the instructions to choose faster servers
-# or read https://www.parrotsec.org/docs/mirrors/mirrors-list/ for more info
+# or read https://www.parrotsec.org/docs/mirrors/mirrors-list/ for more info#doesnt work for me
+
 " > /etc/apt/sources.list
 fi
